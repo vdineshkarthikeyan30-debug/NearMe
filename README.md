@@ -162,8 +162,8 @@ In 2010, its management was taken over by CavinKare (a private business group), 
 ```
 
 ## OUTPUT
-<br>
-![alt text](<Screenshot (33).png>)<br> ![alt text](<Screenshot (28).png>)<br> ![alt text](<Screenshot (29).png>)<br> ![alt text](<Screenshot (30).png>) <br>![alt text](<Screenshot (31).png>)<br> ![alt text](<Screenshot (32).png>)<br>
+
+![alt text](<Screenshot (33).png>)<br> ![alt text](<Screenshot (28).png>)<br> ![alt text](<Screenshot (29).png>)<br> ![alt text](<Screenshot (30).png>) <br>![alt text](<Screenshot (31).png>)<br> ![alt text](<Screenshot (32).png>)
 
 
 
